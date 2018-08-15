@@ -1,0 +1,18 @@
+^ *(<div class="subnav-item) +(.+)(?=>)
+
+
+
+
+
+
+<!doctype html>(.|\n)*?<div class="entry-content">
+
+
+
+
+
+
+title: "(.+) | Psychology.org"
+
+seo_title: "$1 | Psychology.org"
+title: "$1"
