@@ -1,6 +1,6 @@
 <?php
 
-// cat ./content/* > ./content/_compiled.html
+// cat ./raw/* > ./raw/_compiled.html
 // search-replace in compiled file for the start of each front matter with some unique string: '%%%' in this example
 // Run compiled file through https://www.freeformatter.com/html-formatter.html
 
